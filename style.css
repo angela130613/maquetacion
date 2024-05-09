@@ -38,12 +38,12 @@ header .encabezado{
 
 header .mmc a{
     padding: 0 1.5rem;
-    color: rgb(0, 146, 231);
+    color:rgb(0, 0, 0);
     font-size: 120%;
-    text-shadow: 0 0 5px rgb(0, 0, 0),
-    0 0 25px #fee7e2,
-    0 0 50px #fee7e2,
-    0 0 100px #fee7e2;
+    text-shadow: 0 0 5px#ffc5ed,
+    0 0 25px#ffc5ed,
+    0 0 50px#ffc5ed,
+    0 0 100px#ffc5ed;
 }
 
 header .mmc a:hover {
