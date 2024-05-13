@@ -30,7 +30,7 @@ header{
 
 header .encabezado{
     font-size: 220%;
-    color: rgb(0, 146, 231);
+    color:#f9aec8;
     font-weight: bolder;
     text-shadow: 0 0 5px rgb(0, 0, 0),
     0 0 25px #fee7e2,
@@ -40,23 +40,25 @@ header .encabezado{
 
 header .mmc a{
     padding: 0 1.5rem;
-    color:rgb(0, 0, 0);
+    color:#f9aec8;
     font-size: 120%;
-    text-shadow: 0 0 5px#ffc5ed,
+    text-shadow: 0 0 5px#000000,
     0 0 25px#ffc5ed,
     0 0 50px#ffc5ed,
     0 0 100px#ffc5ed;
 }
 
 header .mmc a:hover {
-    color: rgb(240, 107, 174);
+    color: #eb49c3;
 }
 
 img {
     padding-right: 5px;
     width: 190px;
     height: 80px;
-    border-radius: 600px;
+    border-radius: 60px;
     box-shadow: 0 0 25px #fef4f2
 } 
+
+
 
